@@ -7,6 +7,13 @@
   <groupId>pnk</groupId>
   <artifactId>junit-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-api</artifactId>
+      <version>RELEASE</version>
+    </dependency>
+  </dependencies>
   <packaging>jar</packaging>
 
 </project>
