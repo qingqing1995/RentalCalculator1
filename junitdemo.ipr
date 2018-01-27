@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FirstCIProject" target="1.5" />
+      <module name="FirstCIProject" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="GradleLocalSettings">
@@ -28,6 +28,10 @@
       <option name="myName" value="Project Default" />
     </profile>
     <version value="1.0" />
+  </component>
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+    <option name="sourceMapPrefix" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
