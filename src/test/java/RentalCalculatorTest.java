@@ -1,10 +1,14 @@
 import static org.junit.Assert.*;
+
 import org.junit.Test;
+
 /**
  * junitdemo
- * Created by VoidK on 1/22/2018 at 7:00 PM.
+ * Created by VoidK on 1/29/2018 at 2:59 PM.
  */
-class TestRentalCalculator {
+public class RentalCalculatorTest {
+
+  public RentalCalculatorTest(){}
 
   @Test
   //TC1 : First timer, Honda Fit, 1 Day, expect $61.75

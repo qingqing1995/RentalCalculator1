@@ -8,6 +8,10 @@ import org.junit.Test;
  */
 public class TestRentalCalculatorTest {
 
+  public TestRentalCalculatorTest(){
+
+  }
+
   @Test
   //TC1 : First timer, Honda Fit, 1 Day, expect $61.75
   public void testTC1() {
